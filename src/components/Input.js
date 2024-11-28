@@ -12,7 +12,7 @@ export default function Input({
   return (
     <div>
       <div className='input-section__heading-container'>
-        <label className='input-section__heading' htmlFor='tip-input-field'>
+        <label className='input-section__heading' htmlFor={htmlId}>
           {heading}
         </label>
         <p
