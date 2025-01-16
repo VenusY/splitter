@@ -23,4 +23,4 @@ understanding of React and its syntax.
 
 ### Mobile Preview
 
-<img src="./public/readme-images/mobile-preview.png" alt="Mobile preview" />
+<img height="600" src="./public/readme-images/mobile-preview.png" alt="Mobile preview" />
