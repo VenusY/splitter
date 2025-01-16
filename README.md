@@ -8,6 +8,14 @@ works across a large range of viewport sizes.
 
 This app was built with React and CSS.
 
+## Table of Contents
+
+- [Why I Built This Project](#why-i-built-this-project)
+- [Preview](#preview)
+  - [Desktop Preview](#desktop-preview)
+  - [Mobile Preview](#mobile-preview)
+- [Author](#author)
+
 ## Why I Built This Project
 
 I built this project as an entry into the world of React. I wanted to build a 
