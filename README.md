@@ -12,4 +12,5 @@ This app was built with React and CSS.
 
 I built this project as an entry into the world of React. I wanted to build a 
 functional app that required user input as I wanted to gain familiarity with 
-the React concept of 'controlled components'.
+the React concept of 'controlled components', as well as just a basic
+understanding of React and its syntax.
