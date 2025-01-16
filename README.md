@@ -14,3 +14,13 @@ I built this project as an entry into the world of React. I wanted to build a
 functional app that required user input as I wanted to gain familiarity with 
 the React concept of 'controlled components', as well as just a basic
 understanding of React and its syntax.
+
+## Preview
+
+### Desktop Preview
+
+<img src="./public/readme-images/desktop-preview.png" alt="Desktop preview" />
+
+### Mobile Preview
+
+<img src="./public/readme-images/mobile-preview.png" alt="Mobile preview" />
