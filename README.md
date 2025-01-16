@@ -7,3 +7,9 @@ It features a simple and intuitive user interface which is responsive and
 works across a large range of viewport sizes.
 
 This app was built with React and CSS.
+
+## Why I Built This Project
+
+I built this project as an entry into the world of React. I wanted to build a 
+functional app that required user input as I wanted to gain familiarity with 
+the React concept of 'controlled components'.
