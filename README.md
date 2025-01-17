@@ -27,11 +27,11 @@ understanding of React and its syntax.
 
 ### Desktop Preview
 
-<img src="./public/readme-images/desktop-preview.png" alt="Desktop preview" />
+![Desktop preview](./public/readme-images/desktop-preview.png)
 
 ### Mobile Preview
 
-<img height="600" src="./public/readme-images/mobile-preview.png" alt="Mobile preview" />
+![Mobile preview](./public/readme-images/mobile-preview.png)
 
 ## Author
 
