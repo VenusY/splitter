@@ -14,6 +14,7 @@
   text-transform: uppercase;
   color: var(--very-dark-cyan);
   cursor: pointer;
+  transition: background 100ms linear;
 }
 
 .results-screen__button:hover {
